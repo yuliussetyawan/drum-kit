@@ -1,6 +1,8 @@
 # Drum Kit
 A drum kit program made using HTML, CSS, and JavaScript.
 
+![A drum kit program](drum-kit.PNG)
+
 ## Features
 - A virtual drum kit with realistic drum sounds
 - Playable using keyboard or mouse clicks
